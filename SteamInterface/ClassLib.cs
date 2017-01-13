@@ -91,13 +91,4 @@ namespace SteamInterface
             }
         }
     }
-    /*abstract class QueryBuilder
-    {
-        public QueryBuilder()
-        {
-
-        }
-    }
-    */
-
 }
