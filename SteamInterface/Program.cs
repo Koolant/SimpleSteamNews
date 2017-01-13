@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace SteamInterface
 {
-    
+
     class Program
     {
         static void Main(string[] args)
@@ -26,7 +26,7 @@ namespace SteamInterface
             applistRoot = JsonConvert.DeserializeObject<AppListRoot>(jsonString);   // Deserializes the JSON data into objects containing two properties: AppID and Name.
 
             bool endProgram = false;
-            
+
             while (!endProgram)
             {
                 string userInput = Console.ReadLine();
