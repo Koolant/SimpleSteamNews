@@ -3,7 +3,7 @@ This is a small project I'm creating. The objective is to build a very lightweig
 
 Update 1/13/2017
 
-It's been several weeks since I've worked on this. I've rebuilt the repository to directly integrate with visual studio. I'll be attempting to integrate a UI in the next few days.
+Returning to this project to see if I can finish building it out. I've remade the repository in order to directly integrate with visual studio. I'll be attempting to implement a UI in the next few days.
 
 Update 11/30/2016
 
