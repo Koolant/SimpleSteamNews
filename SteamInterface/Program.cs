@@ -25,6 +25,8 @@ namespace SteamInterface
             AppListRoot applistRoot = new AppListRoot();
             applistRoot = JsonConvert.DeserializeObject<AppListRoot>(jsonString);   // Deserializes the JSON data into objects containing two properties: AppID and Name.
 
+
+
             bool endProgram = false;
 
             while (!endProgram)
