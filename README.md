@@ -1,6 +1,11 @@
 # SimpleSteamNews
 This is a small project I'm creating. The objective is to build a very lightweight tool that works with the Steam web api to bring the user a Steam game news feed curated according to their preferences. The application should allow the user to easily select games they are interested in hearing news about and serve these news feeds in a consolidated, minimalistic format.
 
+<h3>Update 2/28/2017
+This project has been discontinued as its functionality has been retooled and rolled into my web application.</h3>
+
+
+
 Update 1/13/2017
 
 Returning to this project to see if I can finish building it out. I've remade the repository in order to directly integrate with visual studio. I'll be attempting to implement a UI in the next few days.
